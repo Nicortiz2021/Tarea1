@@ -410,13 +410,16 @@ presente en la figura 2-70.
 
 4.VIDEO
 
+https://youtu.be/4mGVJXE2o9k
 
 5. CONCLUSIONES 
+
 1. Utilizar en todos los datos ingresados el SI para asi no confundir unidades.
 2. Expresar numeros muy grandes o muy pequeños ya sea con notacion cientifica o con sus respectivos prefijos. 
 3. Tener en cuenta que las mediciones pueden contar con un margen de error. 
 
 6. Bibliografia 
+
 LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
